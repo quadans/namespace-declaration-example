@@ -6,5 +6,4 @@ namespace mathe {
 	int subtrahiere(int x, int y);
 }
 
-
 #endif MATHE_H
